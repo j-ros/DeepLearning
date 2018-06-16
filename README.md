@@ -1,6 +1,6 @@
 # Deep Leaning
 
-Work from the [Deep Learning](https://eu.udacity.com/course/deep-learning--ud730) on Udacity:
+Work from the [Deep Learning](https://eu.udacity.com/course/deep-learning--ud730) course on Udacity:
 
 ## Content
 
